@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894292890459",
+    "project_id": "aps-399d1",
+    "storage_bucket": "aps-399d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894292890459:android:9be9020301d7deebbd407e",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfp_XLu7O7-e4yVXbVHxv2ZnoVDse_XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
